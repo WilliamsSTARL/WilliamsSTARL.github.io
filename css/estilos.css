@@ -1,0 +1,51 @@
+.botoni{
+    background-color: #96161a; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  font-size: 16px;
+  padding-left: 1px;   
+  margin: 30px;
+  width: 150px;
+  height: 60px;
+  text-align: top;
+  text-align: center;
+  border-radius: 100px;
+}
+.imagen{
+    margin-right: 400px;
+}
+body{
+    background-color: rgb(rgba(131, 120, 120, 0.318));
+}
+.flotante{
+    position: fixed;
+    bottom: 100px;
+    right: 20px;
+    transition: transform 0.3s ease-in-out;
+
+}
+
+
+.flotante:hover {
+  transform: translateY(-10px);
+}
+.nicecard{
+  background-color: rgb(rgb(199, 139, 10));
+}
+.botonia{
+  background-color: #96161a; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 16px;
+  text-decoration: none;
+  font-size: 16px;
+  padding-left: 10px;   
+  margin: 10px;
+  width: 100px;
+  height: 50px;
+  text-align: top;
+  text-align: center;
+  border-radius: 15px;
+}
